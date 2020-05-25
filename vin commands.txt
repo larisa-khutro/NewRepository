@@ -1,0 +1,18 @@
+vim [название файла.расширение] --создать новый файл
+
+command i --insert mode
+command v --visual mode
+command ESC --stop mode
+command : --to enter win commands
+command q --quit
+commant w --write (save)
+command wq --write and quit
+command yy --copy line
+command p --paste line
+command dd -crop line
+
+vim -/.vimrc --настройки редактора
+
+command syntax on --подсветка синтаксиса
+command set number --нумерация строк
+
